@@ -1,0 +1,1 @@
+# Este archivo es necesario para que Python trate la carpeta 'class' como un paquete. Puede estar vacío.
